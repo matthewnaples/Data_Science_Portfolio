@@ -1,5 +1,5 @@
 # Data_Science_Portfolio
-20 second overview of each project. Use this to navigate through my portfoilio :)
+20 second overview of each project. Use this to navigate through my portfolio. :)
 
 
 ## Project 1
