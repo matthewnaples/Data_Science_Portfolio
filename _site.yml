@@ -1,0 +1,12 @@
+name: "cars"
+output_dir: "docs"
+navbar:
+  title: "Cars"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "first project"
+   href: Individual_Strength_Analysis.html
+output:
+  html_document:
+ theme: cosmo
