@@ -1,5 +1,5 @@
-# Data_Science_Portfolio
-20-30 second overview of each project. Use this to navigate through my portfolio. :)
+# Matt's Portfolio
+20-30 second overview of each project. Use this to navigate through all my projects.
 
 
 ## Predicting strength changes in the powerlifting population over time using ARIMA models
@@ -21,6 +21,14 @@
 ![](images/lawnClassification.png)
 * Adopted [Matterport Inc's implementation](https://github.com/matterport/Mask_RCNN) of Mask R-CNN as our implementation.
 * used image augmentation to overcome sample size barriers (only 85 original images).
+
+
+## Using property information to predict airbnb price listings
+#### Read the report [here]()
+#### View the code [here](https://github.com/matthewnaples/Lawn_maskRCNN)
+* 
+*
+*
 
 
 
