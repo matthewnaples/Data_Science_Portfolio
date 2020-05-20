@@ -5,9 +5,8 @@
 ## Using Reisistance Training Data to Facilitate Strength Progression.
 #### Read the project report [here](https://matthewnaples.github.io/Individual_Strength_Analysis/)
 #### View the repository with code  [here](https://github.com/matthewnaples/Individual_Strength_Analysis)
-
-![](images/e1rm.png)
 * As a result of the analysis, I put 30 pounds on my bench press (310-340 lbs) , 50 pounds on my squat (405-455) , and about 65 pounds on my deadlift (430-495)  after nearly a year of stagnation.
+![](images/e1rm.png)
 * Before the analysis, I gathered my resistance training data for approximately one year. 
 * I used an iterative approach. I followed an 8-10 week program, performed an analysis, updated the program, then followed the updated version. There were a total of four programs performed.
 * No formal statistical modeling was used for the following reasons: (1) I'm not estimating population parameters; (2) time series forecast is useless, as I am knowingly going to manipulate causal factors that will change the process governing that forecast; (3) formal experimental design is untennable.
@@ -18,8 +17,8 @@
 ## Predicting strength changes in the powerlifting population over time using ARIMA models
 #### Read the report [here](https://matthewnaples.github.io/powerlifting_TSA/)
 #### View code at the original repo [here](https://github.com/matthewnaples/powerlifting_TSA/) 
-![](images/strengthForecast.png)
 * Using arima forecasting, I predict change in the powerlifting population over time with a Mean Absolute Error of ~ 5 IPF-points, which can be interpreted as around 80 pounds (for a 185 pound male).
+![](images/strengthForecast.png)
 * This data uses the powerlifting competition scores from hundreds of thousands of powerlifters.
 
 
