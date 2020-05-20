@@ -7,9 +7,9 @@
 #### View code at the original repo [here](https://github.com/matthewnaples/powerlifting_TSA/) 
 * Using arima forecasting, I predict change in the powerlifting population over time with a Mean Absolute Error of ~ 5 IPF-points, which can be interpreted as around 80 pounds (for a 185 pound male).
 * The following is visual comparison between a few tentative ARIMA models and the ground truth of unseen data:
-![](images/strengthForecast.png)
-* After selecting two of the best models, I forecasted one year into the future (waiting on the results from the data source to be updated to validate this):
 ![](images/modelComparison.png)
+* After selecting two of the best models, I forecasted one year into the future (waiting on the results from the data source to be updated to validate this):
+![](images/strengthForecast.png)
 * This data uses the powerlifting competition scores from hundreds of thousands of powerlifters.
 
 
