@@ -39,7 +39,7 @@
 * As a result of the analysis, I put 30 pounds on my bench press (310-340 lbs) , 50 pounds on my squat (405-455) , and about 65 pounds on my deadlift (430-495)  after nearly a year of stagnation.
 * The process was as follows: I followed an 8-10 week program (also called a block), analyzed the results of the training block, updated a few parameters of it (volume per week, average intensity per week, week to week variability in intensity, and week to week variability in volume), then followed the updated version for 8-10 more weeks. There were a total of four blocks performed. Here are the results:
 ![](images/e1rm.png)
-* As you can see, block 1 was an experimental block without much results, but the insights from block 1 lead to stellar increases in strength in blocks 2 and 3. Block 4 was another experimental block like block 1, and insights were taken from it that did lead to training improvement later on.
+* As you can see, block 1 was an experimental block without much results, but the insights from block 1 lead to stellar increases in strength in blocks 2 and 3. Block 4 was another experimental block like block 1, and insights were taken from it that did lead to training improvement after cessation of data collection.
 * No formal statistical modeling was used for the following reasons: (1) I'm not estimating population parameters; (2) time series forecast is useless, as I am knowingly going to manipulate causal factors that will change the process governing that forecast; (3) formal experimental design is untennable.
 
 
