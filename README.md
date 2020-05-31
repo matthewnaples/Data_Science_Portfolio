@@ -17,7 +17,7 @@
 ## Identifying lawns from Satellite Images of Properties Using Mask R-CNN
 #### Read the report [here](https://github.com/matthewnaples/Lawn_maskRCNN/blob/master/Final%20Report%20-%20Geospatial%20Object%20Detection.pdf)
 #### View the python notebook and instructions for running the model [here](https://github.com/matthewnaples/Lawn_maskRCNN)
-* Identified lawns with a mean Average Arecision (mAP) of 86.02%.
+* Identified lawns with a mean Average Precision (mAP) of 86.02%.
 ![](images/lawnClassification.png)
 * Adopted [Matterport Inc's implementation](https://github.com/matterport/Mask_RCNN) of Mask R-CNN as our implementation.
 * used image augmentation to overcome sample size barriers (only 85 original images).
