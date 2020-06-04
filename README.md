@@ -22,16 +22,6 @@
 * Adopted [Matterport Inc's implementation](https://github.com/matterport/Mask_RCNN) of Mask R-CNN as our implementation.
 * used image augmentation to overcome sample size barriers (only 85 original images).
 
-
-## Using property information to predict airbnb price listings
-#### Read the report [here]()
-#### View the code [here](https://github.com/matthewnaples/Lawn_maskRCNN)
-* 
-*
-*
-
-
-
 ## Using Reisistance Training Data to Facilitate Strength Progression.
 #### Read the project report [here](https://matthewnaples.github.io/Individual_Strength_Analysis/)
 #### View the repository with code  [here](https://github.com/matthewnaples/Individual_Strength_Analysis)
